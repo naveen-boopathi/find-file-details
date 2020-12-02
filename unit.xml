@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0050" tests="5" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-11-30T16:39:21" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="fs_intermediate" timestamp="2020-11-30T16:39:21" tests="5" file="/Users/naveenboopathi/Documents/Node/8ce0246f-6208-4c6e-abac-f56235b31db4/test/index.spec.js" time="0.0050" failures="0">
+    <testcase name="fs_intermediate Should reject with a Invalid Path Error if the file/folder does not exist" time="0.0000" classname="Should reject with a Invalid Path Error if the file/folder does not exist">
+    </testcase>
+    <testcase name="fs_intermediate Should have return the listing data for a file" time="0.0030" classname="Should have return the listing data for a file">
+    </testcase>
+    <testcase name="fs_intermediate Should have return the details for a zipped file" time="0.0000" classname="Should have return the details for a zipped file">
+    </testcase>
+    <testcase name="fs_intermediate Should return the correct details for a directory" time="0.0010" classname="Should return the correct details for a directory">
+    </testcase>
+    <testcase name="fs_intermediate Should return the correct details for tmp generated directory" time="0.0010" classname="Should return the correct details for tmp generated directory">
+    </testcase>
+  </testsuite>
+</testsuites>
